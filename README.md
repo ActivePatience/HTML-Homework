@@ -1,2 +1,2 @@
 # HTML-Homework
-Challenge 1 HTML Demo
+Challenge 1 HTML Demo - My first HTML page.
